@@ -13,7 +13,7 @@
       </tr>
     </table>
   </div>
-  <p>The number of Repositories: {{ repoData.length }}</p>
+  <p>The total number of Repositories: {{ repoData.length }}</p>
 </template>
   
   <script lang="ts">
