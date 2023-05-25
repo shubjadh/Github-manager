@@ -1,5 +1,7 @@
 
-After you get the code run `yarn` or `npm install` to pull all of the dependencies
+After you get the code run `yarn` or `npm install` to pull all of the dependencies.
+
+
 install fastify
 install dotenv
 
