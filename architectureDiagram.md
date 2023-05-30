@@ -15,8 +15,11 @@ Develop a secure and user-friendly login system for the GitHub Website, ensuring
 
 **Considered Options:** 
 Option 1: Vue.js with GitHub API integration and TypeScript implementation.
+
 Option 2: Alternative frontend frameworks with GitHub API integration and JavaScript development.
+
 Option 3: Custom frontend solution without GitHub API integration.
+
 Option 4: Outsourcing the development to a third-party agency.
 
 **Decision Outcome:**
