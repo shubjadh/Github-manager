@@ -14,6 +14,7 @@
 Develop a secure and user-friendly login system for the GitHub Website, ensuring authentication and authorization for accessing home, login, and repository pages. Implement efficient repository management functionalities, including creation, updates, deletion, and version control operations. Design a responsive and intuitive user interface, optimizing performance, scalability, and security for a seamless user experience.
 
 **Considered Options:** 
+
 Option 1: Vue.js with GitHub API integration and TypeScript implementation.
 
 Option 2: Alternative frontend frameworks with GitHub API integration and JavaScript development.
