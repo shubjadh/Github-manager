@@ -39,4 +39,4 @@ TypeScript implementation: Developing the website using TypeScript to enhance co
 
 The functionality is shown in architecture diagram below:
 
-<img width="771" alt="Screenshot 2023-05-30 090625" src="https://github.com/shubjadh/SE577/assets/114832019/00f21644-f6a0-4d0e-a9ee-618fb36cf8a6">
+<img width="733" alt="architectureDiagram" src="https://github.com/shubjadh/SE577/assets/114832019/34919ab9-eacc-400f-acd3-e80aaf2c7144">
