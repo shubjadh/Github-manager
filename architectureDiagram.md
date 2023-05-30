@@ -24,8 +24,17 @@ Option 3: Custom frontend solution without GitHub API integration.
 Option 4: Outsourcing the development to a third-party agency.
 
 **Decision Outcome:**
+
 Option 1:
-The development approach for the GitHub Website will involve: Vue.js for front-end development: Utilizing Vue.js to create a dynamic and interactive user interface.                            GitHub API integration: Incorporating the GitHub API to enable seamless integration with GitHub's functionality.                                       
+
+The development approach for the GitHub Website will involve: Vue.js 
+
+for front-end development: Utilizing Vue.js to create a dynamic and interactive user interface.                            
+
+GitHub API integration: Incorporating the GitHub API to enable seamless integration with GitHub's functionality.                                       
+
 TypeScript implementation: Developing the website using TypeScript to enhance code maintainability, productivity, and error detection.
+
 The functionality is shown in architecture diagram below:
+
 <img width="705" alt="architectureDiagram" src="https://github.com/shubjadh/SE577/assets/114832019/4cf3bfb8-c098-469b-aaf1-026e08f787f4">
