@@ -1,4 +1,5 @@
 **Git-Hub Website**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | Category | Value | 
 |----------|----------|
@@ -10,10 +11,11 @@
 **Keywords**: GitHub Website, Vue.js, GitHub API, TypeScript, Development Approach
 
 **Context and Problem Statement:**
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Develop a secure and user-friendly login system for the GitHub Website, ensuring authentication and authorization for accessing home, login, and repository pages. Implement efficient repository management functionalities, including creation, updates, deletion, and version control operations. Design a responsive and intuitive user interface, optimizing performance, scalability, and security for a seamless user experience.
 
 **Considered Options:** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Option 1: Vue.js with GitHub API integration and TypeScript implementation.
 
@@ -24,6 +26,7 @@ Option 3: Custom frontend solution without GitHub API integration.
 Option 4: Outsourcing the development to a third-party agency.
 
 **Decision Outcome:**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Option 1:
 
@@ -37,4 +40,4 @@ TypeScript implementation: Developing the website using TypeScript to enhance co
 
 The functionality is shown in architecture diagram below:
 
-<img width="705" alt="architectureDiagram" src="https://github.com/shubjadh/SE577/assets/114832019/4cf3bfb8-c098-469b-aaf1-026e08f787f4">
+<img width="771" alt="Screenshot 2023-05-30 090625" src="https://github.com/shubjadh/SE577/assets/114832019/00f21644-f6a0-4d0e-a9ee-618fb36cf8a6">
