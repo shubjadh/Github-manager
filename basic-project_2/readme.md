@@ -1,5 +1,3 @@
-In this folder
-
 Use `yarn` or `npm install` to pull all of the dependencies.
 
 install axios using yarn add axios
