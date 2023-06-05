@@ -1,9 +1,12 @@
+**Instructions:** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Use `yarn` or `npm install` to pull all of the dependencies.
 
-install axios using yarn add axios
+1. Install axios using yarn add axios
 
-install fastify using npm init fastify
+2. Install fastify using npm init fastify
 
-install dotenv using npm install dotenv
+3. Install dotenv using npm install dotenv
 
-use 'yarn dev' to execute the code.
+4. Finally use 'yarn dev' to execute the code.
