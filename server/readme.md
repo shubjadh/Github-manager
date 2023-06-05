@@ -1,5 +1,6 @@
-
-After you get the code run `yarn` or `npm install` to pull all of the dependencies.
+**Server Instructions:** 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Download code and run `yarn` or `npm install` to pull all of the dependencies.
 
 install axios using yarn add axios
 
