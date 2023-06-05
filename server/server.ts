@@ -1,9 +1,9 @@
-import  {MockData}  from "./db";
 import fastify, {RequestGenericInterface} from "fastify";
 import dotenv from 'dotenv';
 import {GetGHProxySecureOptions, GetGHProxyOptions } from "./proxy";
 import cors from '@fastify/cors';
 import fastifyHttpProxy from "@fastify/http-proxy";
+import  {MockData}  from "./db";
 
 dotenv.config();
 
@@ -37,7 +37,7 @@ interface requestId extends RequestGenericInterface {
 //thus /Repository/1will pull 1 out of the constant
 server.get<requestId>('/repository/:id', async (request, reply) => {
     const { id } = request.params;
-    const repo = MockData.find(element => element.RepositoryId == id);
+    const repo = MockData.find(element => element.id == id);
     if (repo) {
         return repo;
     } else {
@@ -63,7 +63,7 @@ server.get<requestQry>('/search', async (request, reply) => {
     const { id,dec} = request.query;
     
     if (id){
-        const repo = MockData.find(element => element.RepositoryId == id);
+        const repo = MockData.find(element => element.id == id);
         if (repo) {
             return [repo];
         } else {
@@ -72,7 +72,7 @@ server.get<requestQry>('/search', async (request, reply) => {
             return
         }
     }else if (dec){
-        const repo= MockData.filter(element => element.RepositoryDescription == dec);
+        const repo= MockData.filter(element => element.html_url == dec);
         if (dec.length > 0) {
             return repo;
         } else {
@@ -94,3 +94,12 @@ server.listen({ port: 9500 }, (err, address) => {
   }
   console.log(`Server listening at ${address}`)
 })
+
+
+//If you want to pass a parameter like /Repository/1 setup an interface
+//for the parameter
+interface requestId extends RequestGenericInterface {
+    Params: {
+      id: string
+    }
+}

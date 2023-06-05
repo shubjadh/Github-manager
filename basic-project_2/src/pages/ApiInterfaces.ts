@@ -1,7 +1,9 @@
 export interface RepositoryApiInterface {
-    RepositoryId: string,
-    RepositoryName: string,
-    RepositoryDescription: string
+    id: string,
+    name: string,
+    html_url: LinkStyle,
+    language: string
+    created_at: string
 }
 
 export interface ApiErrorInterface {

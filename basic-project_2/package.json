@@ -15,7 +15,8 @@
     "pinia": "^2.0.32",
     "quasar": "^2.11.10",
     "vue": "^3.2.47",
-    "vue-router": "^4.1.6"
+    "vue-router": "^4.1.6",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@types/node": "^18.14.2",
