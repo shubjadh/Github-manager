@@ -43,7 +43,8 @@ The functionality is shown in architecture diagram below:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Screenshot 2023-06-08 113628](https://github.com/shubjadh/SE577/assets/114832019/efbf101e-ee91-4992-9533-36a16f1b3194)
+
+![Last](https://github.com/shubjadh/SE577/assets/114832019/52af8b5f-2f98-414b-8e3f-600d5c1ad016)
 
 
 
