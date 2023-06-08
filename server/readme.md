@@ -4,20 +4,20 @@ This is the server folder.
 
 It includes all required back-end server files of the project.
 
-follow the Instructions to run the server.
+Follow the Instructions to run the server.
 
 **Instructions**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-After you PULL the code run `yarn` or `npm install` to pull all of the dependencies.
+1. After you PULL the code run `yarn` or `npm install` to pull all of the dependencies.
 
-install axios using yarn add axios
+2. Install axios using yarn add axios
 
-install fastify using npm init fastify
+3. Install fastify using npm init fastify
 
-install dotenv using npm install dotenv
+4. Install dotenv using npm install dotenv
 
-First open the server directory and then run execute `yarn run server` or `npm run server`
+5. First open the server directory and then run execute `yarn run server` or `npm run server`
 
 You can then go to `localhost:9095` and do the following things:
 
@@ -26,4 +26,4 @@ You can then go to `localhost:9095` and do the following things:
 3. http://localhost:9500/repository/1
  
 
-After this go to the basic-project directory and execute 'yarn dev'.
+6. After this go to the basic-project directory and execute 'yarn dev'.
