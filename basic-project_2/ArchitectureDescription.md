@@ -48,9 +48,9 @@ The functionality is shown in architecture diagram below:
 **Architecture Components:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| Column 1 | Column 2 |
+| Component | Description |
 |----------|----------|
-| Web App  | The web application uses theVue.js frame work and a number of best practices for state management and asynchronous integration with web services. The Web App is deployed in a               container using the Ngenix web server.    |
+| Web App  | The web application uses theVue.js frame work and a number of best practices for state management and asynchronous integration with web services. The Web App is deployed in a               container using the Ngenix web server.|
 | Row 2    | Row 2    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
