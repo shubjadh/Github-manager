@@ -25,6 +25,16 @@ const router = createRouter({
       path: '/repositories',
       name: 'repo',
       component: () => import('../pages/RepositoryPage.vue')
+    },
+    {
+      path: '/gist',
+      name: 'gist',
+      component: () => import('../pages/GistPage.vue')
+    },
+    {
+      path:'/user',
+      name: 'user',
+      component: () => import('../pages/UserProfilePage.vue')
     }
     
   ]
