@@ -26,7 +26,7 @@ Description: GitLab is a popular web application  for source code management and
       GitLab allows users to access Gists, search for users, and display their 
       profiles and information.
 
-#Table of Contents:
+**Table of Contents:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.Installation
 2.Usage
