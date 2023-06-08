@@ -10,15 +10,15 @@ To begin, please follow the instructions below
 **Instructions**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-After you PULL the code run `yarn` or `npm install` to pull all of the dependencies.
+1. After you PULL the code run `yarn` or `npm install` to pull all of the dependencies.
 
-Install axios using yarn add axios
+2. Install axios using yarn add axios
 
-Open the basic-project-2 folder in seperte window.
+3. Open the basic-project-2 folder in seperte window.
 
-Once the server is up and running, 
+4. Once the server is up and running, 
 
-you can launch the code by using the command `yarn dev` in the terminal.
+5. You can launch the code by using the command `yarn dev` in the terminal.
 
-Copy the local host link on the browser.
+6. Copy the local host link on the browser.
 
