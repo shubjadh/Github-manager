@@ -39,6 +39,10 @@ TypeScript implementation: Developing the website using TypeScript to enhance co
 
 The functionality is shown in architecture diagram below:
 
+**Architecture Diagram:**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ![FinalAC](https://github.com/shubjadh/SE577/assets/114832019/033888b1-dae7-48e0-bec4-1a540beb33d8)
 
 **Architecture Components:**
@@ -51,6 +55,12 @@ The functionality is shown in architecture diagram below:
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
+| Row 6    | Row 6    |
+| Row 6    | Row 6    |
+| Row 6    | Row 6    |
+| Row 6    | Row 6    |
+| Row 6    | Row 6    |
+| Row 6    | Row 6    |
 | Row 6    | Row 6    |
 
 
