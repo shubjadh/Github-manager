@@ -26,6 +26,8 @@ GitLab is a popular web application  for source code management and collaboratio
 
 3.Contributing
 
+4. Contact Information
+
 **Installation:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
