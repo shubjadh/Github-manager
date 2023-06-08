@@ -8,7 +8,7 @@
 
 1. Vue.js
 
-2.Typescript
+2. Typescript
 
 3. HTML/CSS
 
@@ -41,11 +41,11 @@ To install and set up the Git Lab Website, follow these steps:
 
 1. Clone the repository: https://github.com/shubjadh/SE577.git
  
-2.Navigate to the project directory: server-folder and basic-project-2 folder
+2. Navigate to the project directory: server-folder and basic-project-2 folder
 
-3.First go to the server folder and read its instructions
+3. First go to the server folder and read its instructions
 
-4.then go to basic-project-2 folder and read its instructions
+4. Then go to basic-project-2 folder and read its instructions
 
 **Usage:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
