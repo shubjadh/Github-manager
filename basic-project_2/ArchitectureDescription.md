@@ -51,17 +51,18 @@ The functionality is shown in architecture diagram below:
 | Component | Description |
 |----------|----------|
 | Web App  | The web application uses theVue.js frame work and a number of best practices for state management and integration with web services. The Web App is deployed in a                            container using the Fastify web server.|
-| Row 2    | Row 2    |
-| Row 3    | Row 3    |
-| Row 4    | Row 4    |
-| Row 5    | Row 5    |
-| Row 6    | Row 6    |
-| Row 6    | Row 6    |
-| Row 6    | Row 6    |
-| Row 6    | Row 6    |
-| Row 6    | Row 6    |
-| Row 6    | Row 6    |
-| Row 6    | Row 6    |
+| GitLab Client | Row 2    |
+| Server | Row 3    |
+| Server Functionality | Row 6    |
+| Local Repository Data | Row 6    |
+| Github Api Token | Row 6    |
+| Home Page | Row 4    |
+| Login Page | Row 5    |
+| Repostory Page | Row 6    |
+| Gist Page | Row 6    |
+| About Page | Row 6    |
+| Search page | Row 6    |
+
 
 
 
