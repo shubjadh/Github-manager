@@ -43,7 +43,8 @@ The functionality is shown in architecture diagram below:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<img width="800" alt="ACD" src="https://github.com/shubjadh/SE577/assets/114832019/ec51ec62-46a3-4898-ad00-2e88d4bec5c8">
+![Screenshot 2023-06-08 113628](https://github.com/shubjadh/SE577/assets/114832019/efbf101e-ee91-4992-9533-36a16f1b3194)
+
 
 
 
