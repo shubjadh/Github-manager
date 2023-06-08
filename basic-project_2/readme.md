@@ -18,7 +18,7 @@ Open the basic-project-2 folder in seperte window.
 
 Once the server is up and running, 
 
-you can launch the code by using the command "yarn dev" in the terminal.
+you can launch the code by using the command `yarn dev` in the terminal.
 
 Copy the local host link on the browser.
 
