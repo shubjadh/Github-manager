@@ -1,9 +1,9 @@
 **GitLab Website**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-the basic-project-2 folder contains the front-end code.
+the basic-project-2 folder contains the all the files and fron-end code.
 
-the server folder contains the back-end code.
+the server folder contains the back-end server code and all required files.
  
 **Language/framework used:** Vue.js and Typescript
 
