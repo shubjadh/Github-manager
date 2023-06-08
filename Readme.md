@@ -20,11 +20,11 @@ GitLab is a popular web application  for source code management and collaboratio
 **Table of Contents:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.Installation
+1. Installation
 
-2.Usage
+2. Usage
 
-3.Contributing
+3. Contributing
 
 4. Contact Information
 
