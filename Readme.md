@@ -1,35 +1,37 @@
-**GitLab Website**
+**Project title:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-the basic-project-2 folder contains the all the files and fron-end code.
+ GitLab Website
 
-the server folder contains the back-end server code and all required files.
- 
-**Language/framework used:** Vue.js and Typescript
-
-**Instructions:**
+**Language Used:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-To run the project
+1. Vue.js
 
-First go to the server folder and read its instructions
+2.Typescript
 
-then go to basic-project-2 folder and read its instructions
+3. HTML/CSS
 
-
-**Project title: Git Lab Website**
+**Description:** 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Description: GitLab is a popular web application  for source code management and 
-      collaboration. It provides a comprehensive set of features for managing 
-      repositories, tracking issues, and view repository details. Additionally, 
-      GitLab allows users to access Gists, search for users, and display their 
-      profiles and information.
+GitLab is a popular web application  for source code management and 
+
+collaboration. It provides a comprehensive set of features for managing 
+
+repositories, tracking issues, and view repository details. Additionally, 
+      
+GitLab allows users to access Gists, search for users, and display their 
+      
+profiles and information.
 
 **Table of Contents:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1.Installation
+
 2.Usage
+
 3.Contributing
 
 **Installation:**
@@ -38,12 +40,12 @@ Description: GitLab is a popular web application  for source code management and
 To install and set up the Git Lab Website, follow these steps:
 
 1. Clone the repository: https://github.com/shubjadh/SE577.git
-2. 
-3.Navigate to the project directory: server-folder and basic-project-2 folder
+ 
+2.Navigate to the project directory: server-folder and basic-project-2 folder
 
-4.First go to the server folder and read its instructions
+3.First go to the server folder and read its instructions
 
-5.then go to basic-project-2 folder and read its instructions
+4.then go to basic-project-2 folder and read its instructions
 
 **Usage:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -51,8 +53,11 @@ To install and set up the Git Lab Website, follow these steps:
 Once the Git Lab Website is installed and running, you can access it by opening your web browser and navigating to localhost:9095. The website provides the following functionalities:
 
 1. Repository Management:  View repository details.
+ 
 2. Login: Basic Login without functionality
+ 
 3. User Profiles: Search for users, view their profiles, and access their public repositories.
+ 
 4. Gists: View Gists.
 
 
