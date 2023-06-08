@@ -15,15 +15,7 @@
 **Description:** 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-GitLab is a popular web application  for source code management and 
-
-collaboration. It provides a comprehensive set of features for managing 
-
-repositories, tracking issues, and view repository details. Additionally, 
-      
-GitLab allows users to access Gists, search for users, and display their 
-      
-profiles and information.
+GitLab is a popular web application  for source code management and collaboration. It provides a comprehensive set of features for managing repositories, tracking issues, and view repository details. Additionally, GitLab allows users to access Gists, search for users, and display their profiles and information.
 
 **Table of Contents:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
