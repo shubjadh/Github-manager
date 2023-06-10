@@ -37,9 +37,21 @@ To install and set up the Git Lab Website, follow these steps:
  
 2. Navigate to the project directory: server-folder and basic-project-2 folder
 
-3. First go to the server folder and read its instructions
+3. First go to the server folder 
 
-4. Then go to basic-project-2 folder and read its instructions
+4. Install axios using yarn add axios
+
+5. Install fastify using npm init fastify
+
+6. Install dotenv using npm install dotenv
+
+7. First open the server directory and then run execute `yarn run server` or `npm run server`
+
+
+8. After this go to the basic-project directory and execute 'yarn dev'.
+
+
+
 
 **Usage:**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
