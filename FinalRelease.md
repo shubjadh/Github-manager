@@ -47,8 +47,15 @@ To install and set up the Git Lab Website, follow these steps:
 
 7. First open the server directory and then run execute `yarn run server` or `npm run server`
 
+8. After this go to the basic-project folder
 
-8. After this go to the basic-project directory and execute 'yarn dev'.
+9. Install axios using yarn add axios
+
+4. Once the server is up and running, 
+
+5. You can launch the code by using the command `yarn dev` in the terminal.
+
+6. Copy the local host link from terminal and paste it in the browser.
 
 
 
